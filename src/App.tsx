@@ -1,4 +1,3 @@
-import { useState, FormEvent } from "react";
 import Logo from "./assets/logo.png";
 import { Wrapper } from "./style";
 import ViewController from "./viewController";
